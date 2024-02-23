@@ -1,0 +1,14 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    
+    stroke: brown;
+    stroke-width: 10%;
+}
+#identity{
+    color: brown;
+}
+.classDef{
+    color: yellow;
+}
